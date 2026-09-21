@@ -12,8 +12,8 @@
 
 This is a `book`.
 
-```
-This is a book.
+```python
+print("This is a book.")
 ```
 
 > 新北市
