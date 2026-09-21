@@ -16,6 +16,13 @@ This is a `book`.
 print("This is a book.")
 ```
 
+```python linenums="1"
+def greet(name):
+    return f"Hello, {name}!"
+
+print(greet("World"))
+```
+
 > 新北市
 >> 中和區
 >>
